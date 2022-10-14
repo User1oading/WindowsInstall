@@ -1,0 +1,11 @@
+xbox app
+minecraft
+
+https://github.com/microsoft/PowerToys/releases/download/v0.63.0/PowerToysSetup-0.63.0-x64.exe
+https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
+https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
+https://www.7-zip.org/a/7z2201-x64.exe
+https://www.autohotkey.com/download/ahk-install.exe
+https://github.com/jrbudda/Vivecraft_119/releases/download/1.19.2r2/vivecraft-1.19.2-jrbudda-VR-2-b8-installer.jar
+https://www.oculus.com/download_app/?id=1582076955407037&utm_source=duckduckgo.com&utm_medium=oculusredirect
+https://us.download.nvidia.com/Windows/522.25/522.25-notebook-win10-win11-64bit-international-dch-whql.exe
