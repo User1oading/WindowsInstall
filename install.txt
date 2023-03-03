@@ -1,6 +1,8 @@
 xbox app
 minecraft
 
+https://github.com/ChrisTitusTech/winutil
+
 https://github.com/microsoft/PowerToys/releases/download/v0.63.0/PowerToysSetup-0.63.0-x64.exe
 https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
 https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
